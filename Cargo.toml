@@ -1,0 +1,8 @@
+[workspace]
+members = []
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+description = "Modernize without morging, supercharged by a powerful, deterministic compiler, pushing AI usage back to the compiler development stage"
+license = "MPL-2.0"

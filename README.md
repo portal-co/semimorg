@@ -1,0 +1,3 @@
+# semimorg
+
+Generated repository.
